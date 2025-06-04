@@ -1,6 +1,6 @@
-__pycache__/
-*.py[cod]
-*.egg
-*.egg-info/
-.Python
-.env
+**/*__pycache__/
+**/*.py[cod]
+**/*.egg
+**/*.egg-info/
+**/*.Python
+**/*.env
